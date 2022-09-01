@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1046560603323",
+    "project_id": "joe-gram",
+    "storage_bucket": "joe-gram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046560603323:android:f81d3336496e820c477d9e",
+        "android_client_info": {
+          "package_name": "com.example.joegram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046560603323-5guqon6v5rf4mqo0dspcenbud8m3g52s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0ZqDxfc418bjdoRRyb_9roE9IUqYpZWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046560603323-5guqon6v5rf4mqo0dspcenbud8m3g52s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
